@@ -1,1 +1,1 @@
-# CodecademyJava
+# JavaExercises
